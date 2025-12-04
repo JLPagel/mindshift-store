@@ -218,8 +218,8 @@ const CollectionsPage = () => {
                 <div className="flex items-center space-x-2">
                   <Download className="text-purple-600" size={24} />
                   <div>
-                    <p className="font-bold text-2xl">50K+</p>
-                    <p className="text-sm text-gray-600">Downloads Today</p>
+                    <p className="font-bold text-2xl">Download TODAY</p>
+                    <p className="text-sm text-gray-600">The Burnout Fix</p>
                   </div>
                 </div>
               </div>
@@ -244,8 +244,8 @@ const CollectionsPage = () => {
             </div>
             <div className="space-y-2">
               <Star className="mx-auto text-purple-600" size={32} />
-              <p className="font-semibold">4.8★ Average</p>
-              <p className="text-sm text-gray-600">20K+ reviews</p>
+              <p className="font-semibold">5.0★ Average</p>
+              <p className="text-sm text-gray-600">5+ reviews</p>
             </div>
             <div className="space-y-2">
               <CreditCard className="mx-auto text-purple-600" size={32} />

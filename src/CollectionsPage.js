@@ -21,8 +21,8 @@ const CollectionsPage = () => {
       subtitle: 'Transform Your Day Before Coffee',
       price: 17.99,
       category: 'Morning Routines',
-      rating: 4.9,
-      reviews: 2847,
+      rating: 0.0,
+      reviews: 0,
       image: 'https://images.unsplash.com/photo-1495364141860-b0d03eccd065?w=800&q=80',
       bestseller: true
     },
@@ -32,8 +32,8 @@ const CollectionsPage = () => {
       subtitle: 'Productivity Hacks That Actually Work',
       price: 24.99,
       category: 'Productivity',
-      rating: 4.8,
-      reviews: 4231,
+      rating: 0.0,
+      reviews: 0,
       image: 'https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80',
       bestseller: true
     },
@@ -43,8 +43,8 @@ const CollectionsPage = () => {
       subtitle: 'The Quick Guide to Saying No',
       price: 19.99,
       category: 'Mental Wellness',
-      rating: 4.9,
-      reviews: 3654,
+      rating: 0.0,
+      reviews: 0,
       image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80'
     },
     {
@@ -53,8 +53,8 @@ const CollectionsPage = () => {
       subtitle: 'Fast Side Hustles That Pay',
       price: 29.99,
       category: 'Money & Career',
-      rating: 4.7,
-      reviews: 1923,
+      rating: 0.0,
+      reviews: 0,
       image: 'https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=800&q=80',
       bestseller: true
     },
@@ -64,8 +64,8 @@ const CollectionsPage = () => {
       subtitle: 'Instant Techniques for Any Situation',
       price: 22.99,
       category: 'Mindset',
-      rating: 4.8,
-      reviews: 2145,
+      rating: 0.0,
+      reviews: 0,
       image: 'https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&q=80'
     },
     {
@@ -74,8 +74,8 @@ const CollectionsPage = () => {
       subtitle: 'Recover Your Energy in 7 Days',
       price: 21.99,
       category: 'Mental Wellness',
-      rating: 4.9,
-      reviews: 3892,
+      rating: 5.0,
+      reviews: 5,
       image: 'https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=800&q=80',
       bestseller: true
     },
@@ -85,8 +85,8 @@ const CollectionsPage = () => {
       subtitle: 'Get More Done in Less Time',
       price: 26.99,
       category: 'Productivity',
-      rating: 4.8,
-      reviews: 2764,
+      rating: 0.0,
+      reviews: 0,
       image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&q=80'
     },
     {
@@ -95,8 +95,8 @@ const CollectionsPage = () => {
       subtitle: 'Reprogram Your Wealth Blueprint',
       price: 24.99,
       category: 'Money & Career',
-      rating: 4.7,
-      reviews: 1567,
+      rating: 0.0,
+      reviews: 0,
       image: 'https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?w=800&q=80'
     }
   ];

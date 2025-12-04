@@ -406,7 +406,7 @@ const CollectionsPage = () => {
             Ready to Level Up?
           </h2>
           <p className="text-xl text-white/90 mb-8">
-            Join 50,000+ people transforming their lives with our instant-access guides
+            Join other people in transforming their lives with our instant-access guides
           </p>
           <button className="px-8 py-4 bg-white text-purple-600 rounded-full font-semibold hover:shadow-2xl transition transform hover:-translate-y-1">
             Browse All Books

@@ -63,8 +63,8 @@ const HomePage = () => {
                     <Star key={i} size={20} className="fill-yellow-400 text-yellow-400" />
                   ))}
                 </div>
-                <span className="text-gray-700 font-medium">4.9/5</span>
-                <span className="text-gray-500">(2,847 reviews)</span>
+                <span className="text-gray-700 font-medium">5.0/5</span>
+                <span className="text-gray-500">(5+ reviews)</span>
               </div>
 
               {/* What's Included */}
